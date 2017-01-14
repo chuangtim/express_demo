@@ -1,0 +1,26 @@
+{
+  "name": "express_demo",
+  "version": "1.0.0",
+  "homepage": "https://github.com/chuangtim/express_demo",
+  "authors": [
+    "zhuangtim <zhuangtim@sina.cn>"
+  ],
+  "description": "express demo front",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "exrepss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.6.1"
+  }
+}
