@@ -2,7 +2,7 @@
   apps : [{
     name    : "express_demo",
     script  : "app.js",
-    cwd : "/tmp/www/cx-easy/current"
+    cwd : "/tmp/www/cx-easy/current",
     watch   : true,
     env : {
       "NODE_ENV": "development",
