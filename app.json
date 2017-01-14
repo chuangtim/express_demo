@@ -1,9 +1,10 @@
 {
   apps : [{
-    name        : "express_demo",
-    script      : "./app.js",
-    watch       : true,
-    env: {
+    name    : "express_demo",
+    script  : "app.js",
+    cwd : "/srv/www/cx-easy/current"
+    watch   : true,
+    env : {
       "NODE_ENV": "development",
     },
     env_production : {
